@@ -1,2 +1,2 @@
-# NONe
-none
+# about math
+personal thinking about mathematics
